@@ -1,0 +1,12 @@
+numpy
+pandas
+imagecodecs
+tifffile
+mahotas
+tqdm
+matplotlib
+opencv-python
+albumentations
+torch
+zarr
+scikit-learn
